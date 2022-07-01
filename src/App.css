@@ -1,0 +1,28 @@
+ *{
+  background-color: black;
+} 
+.header{
+  text-align: center;
+
+}
+.App{
+  display: flex;
+ justify-content: center;
+ 
+ 
+  
+}
+/* .container{
+  flex-wrap: wrap;
+} */
+img{
+  width: 400px;
+  height: 300px;
+}
+.card{
+  color:white;
+}
+
+h1{
+   color: white;
+}
